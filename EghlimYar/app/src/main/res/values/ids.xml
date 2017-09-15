@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="loginbtn" type="id">loginbtn</item>
+    <item name="analysis" type="id">analysis</item>
+    <item name="barchart" type="id">barchart</item>
+    <item name="errortxt" type="id">errortxt</item>
+    <item name="weather_img" type="id">weather_img</item>
+    <item name="home_title" type="id">home_title</item>
+    <item name="weather_desc" type="id">weather_desc</item>
+    <item name="recom_desc" type="id">recom_desc</item>
+</resources>

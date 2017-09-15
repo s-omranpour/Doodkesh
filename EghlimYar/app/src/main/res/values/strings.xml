@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Doodkesh</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">ورود یا ثبت نام</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="login_btn">ورود</string>
+    <string name="statics">hihihihi</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="recom_title">توصیه های پزشکی</string>
+    <string name="weather_title">وضعیت آب و هوای تهران</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_test">Sign in</string>
+    <string-array name="related_to_co">
+        <item>سردرد</item>
+        <item> کاهش هوشیاری</item>
+        <item>حمله قلبی</item>
+        <item>بیماری های قلبی عروقی</item>
+        <item>ناتوانی در رشد جنین</item>
+    </string-array>
+
+    <string-array name="related_to_no2">
+        <item>تحریک ریه</item>
+        <item>عفونت دستگاه تنفسی</item>
+        <item>سرفه</item>
+        <item> درد قفسه سینه</item>
+        <item>مشکل تنفس</item>
+    </string-array>
+
+    <string-array name="related_to_so2">
+        <item>سوزش چشم</item>
+        <item>خس خس سینه</item>
+        <item> تنگی و سفتی قفسه سینه</item>
+        <item>تنگی نفس</item>
+        <item> تخریب ریه</item>
+        <item>اختلالات بینایی</item>
+    </string-array>
+
+    <string-array name="related_to_o3">
+        <item> سوزش چشم و گلو</item>
+        <item> سرفه</item>
+        <item> مشکلات راه تنفسی</item>
+        <item> آسم</item>
+        <item> تخریب ریه</item>
+    </string-array>
+
+    <string-array name="related_to_pb">
+        <item>کم خونی</item>
+        <item>افزایش فشار خون</item>
+        <item> تخریب کلیه و مغز</item>
+        <item> اختلالات عصبی</item>
+        <item>سرطان</item>
+        <item> کاهش ضریب هوشی</item>
+    </string-array>
+    <string-array name="related_to_pm10">
+        <item>سوزش چشم</item>
+        <item>برونشیت</item>
+        <item> تخریب ریه</item>
+        <item> سرطان</item>
+        <item>  اثر بر سیستم قلبی عروقی</item>
+        <item>اختلالات بینایی</item>
+    </string-array>
+    <string-array name="related_to_uv">
+        <item> قرمزی ‌، تورم ‌، درد و گاهی‌ تاول‌ زدن‌ پوست</item>
+        <item> تب‌ (گهگاه‌)</item>
+        <item>  تهوع‌ و استفراغ‌ (در سوختگیهای‌ شدید)</item>
+        <item>دلیریوم (در سوختگی‌های‌ شدید و وسیع‌)</item>
+        <item> تیره‌ شدن‌ یا ور آمدن‌ پوست‌ پس‌ از بهبودی ‌، بسته‌ به‌ شدت‌ سوختگی‌</item>
+    </string-array>
+    <string-array name="solution_for_pollution">
+        <item> لبنیات کم‌چرب میل کنید</item>
+        <item>نوشیدن آب زیاد فراموش نشود</item>
+        <item>خرید از وانتی ممنوع!</item>
+        <item> برای جلوگیری از آلودگی زیاد با سرب بهتر است لبنیات بیشتری مصرف کنید که منبع غنی کلسیم هستند</item>
+        <item>سیر، پیاز و تره فرنگی، هر قدر هم که بوی آزاردهنده‌ای داشته باشند اما حاوی مقدار زیادی گوگرد هستند که می توانند از مخاط دستگاه تنفسی محافظت كنند</item>
+    </string-array>
+
+    <string-array name="solution_for_uv">
+        <item> ‌از ضد‌آفتاب‌هایی استفاده كنید كه ضد‌آب هستند و فاكتور حفاظتی بیش از ۳۰ دارند</item>
+        <item>  هر دو ساعت یك بار ضد‌آفتاب را تجدید كنید</item>
+        <item> استفاده بیش از اندازه از عطر به عوارض پوستی می انجامد</item>
+        <item>از لباسهای‌ به‌ رنگ‌ خنثی‌ مثل‌ خرمایی‌ استفاده‌ کنید. از رنگهای‌ روشن‌ و سفید بپرهیزید زیرا آفتاب‌ را روی‌ صورتتان‌ منعکس‌ می‌کنند</item>
+        <item>همیشه دو لایه لباس بپوشید یا لباس خنك دیگری برای روی لباستان به همراه داشته باشید‌</item>
+    </string-array>
+    <string-array name="solution_for_sunny">
+        <item> از ضد آفتاب استفاده کنید</item>
+        <item>عینک آفتابی یادتون نره</item>
+        <item>از لباس نازک و روشن استفاده کنید</item>
+    </string-array>
+
+    <string-array name="solution_for_rainy">
+        <item>جترتان همراهتان باشد</item>
+        <item>لباس گرم و بارانی بپوشید</item>
+    </string-array>
+    <string-array name="solution_for_snowy">
+        <item>لباس های گرم بپوشید</item>
+        <item>  چنان چه قصد سفر دارید زنجیر چرخ همراهتون باشه</item>
+    </string-array>
+    <string name="title_activity_home_navi">HomeNaviActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Campaign</string>
+    <string name="title_activity_camp_navi">CampNaviActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>

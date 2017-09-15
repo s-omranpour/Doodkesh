@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.sharif.omranpource.eghlimyar.IntroActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/introbg"
+        android:scaleType="fitXY"
+        android:background="@color/color_bg"
+        android:layout_centerHorizontal="true"/>
+
+        <Button
+            android:id="@+id/loginbtn"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="350dp"
+            android:text="@string/login_btn" />
+
+
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>
